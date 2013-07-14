@@ -2,7 +2,7 @@
   "name": "dropdowns",
   "repo": "twitter-bootstrap/dropdowns",
   "description": "Toggleable, contextual menu for displaying lists of links.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [ "twitter", "bootstrap", "dropdowns", "dropdown" ],
   "dependencies": {
     "component/jquery": "1.8.2",
